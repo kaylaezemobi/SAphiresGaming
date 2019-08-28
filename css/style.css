@@ -1,0 +1,49 @@
+.conversion{
+    background-color: #222;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+.about-section{
+    margin: 75px auto;
+}
+
+.footer-p{
+    color: #eee;
+}
+
+.my-color{
+    background-color: plum;
+}
+
+.btn-primary{
+    background-color: peachpuff;
+    border: 2px solid peachpuff;
+}
+
+.btn-success{
+    background-color: aqua;
+    border: 3px solid aqua;
+}
+
+.pad{
+    padding: 45px 0;
+}
+
+.side-image{
+    padding: 10px;
+    border: 4px solid purple;
+}
+
+.pg-pad{
+    padding: 15px;
+}
+
+.footer{
+    padding: 20px 0;
+    color: aqua;
+    background-color: #333;
+}
+
+
